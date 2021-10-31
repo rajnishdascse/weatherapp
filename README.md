@@ -6,5 +6,6 @@
 3. Wind speed, Humidity, Sunset time of the location, and Weather Pressure of the location.
 
 
-#Interface of the Project
-![Image of Project interface](https://rajnishdascse.github.com/weatherapp/appDemo.png)
+# Interface of the Project
+
+![](https://github.com/rajnishdascse/weatherapp/blob/main/appDemo.png)
